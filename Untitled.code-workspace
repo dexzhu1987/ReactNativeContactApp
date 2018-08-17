@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "assets"
+		},
+		{
+			"path": "components"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
